@@ -11,3 +11,4 @@ Udemy *The Complete Flutter Development Bootcamp with Dart*의 **MiCard** 섹션
 - **SafeArea**로 노치/홈바 영역 대응
 - **Custom Font** 등록 및 적용
 
+<img width="400" height="800" alt="Image" src="https://github.com/user-attachments/assets/8981ed2e-ec70-4776-8b8d-03db0a0b7149" />
